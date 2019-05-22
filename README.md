@@ -51,16 +51,19 @@ StemGenex, Inc. – San Diego, CA <br>
 * Clinical research responsibilities such as conducting pre and post treatment assessments of patients through questionnaires, collecting, maintaining, and analyzing clinical research data, acting as liaison between research staff and third party organizations such as IRB and FDA
 * Administrative responsibilities such as triaging of phone calls, communicating with patients, general office duties such as filing, copying, faxing, create spreadsheets/report, offering assistance to members of other teams when necessary
 <br>
+
 Pine House Café & Tavern - Mount Laguna, CA <br>                                 
 **July, 2016 – June, 2017: Executive Assistant**
 * Reliable right-hand to restaurant owner in various logistical tasks, including but not limited to; market research, event coordinating and planning, marketing tasks, collecting donations, and promoting for and running charity events
 <br>
+
 University of California, San Diego – San Diego, CA                  
 **June, 2013 – June, 2016: Research Assistant – Infant Vision Lab**
 * Responsible for running research studies from conception to implementation. Including: 
 recruiting and testing human subjects, data entry and organization, independently analyzing individual and large sets of data
 * Maintaining communication within, as well as organization and maintenance of the lab, training and helping manage teams of incoming research assistants, working on multiple studies simultaneously
 <br>
+
 Pearson Education, Inc. – San Diego, CA <br>                     	
 **September, 2015 – January, 2016: Research Assistant (Contracted)**		 
 * Data collection at an Elementary afterschool program, proctoring pre and post 
