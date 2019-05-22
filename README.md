@@ -40,9 +40,7 @@ Gene St. Louis Consulting – San Diego, CA <br>
 <br>
 University of California, San Diego Data Science Bootcamp – San Diego, CA <br>
 **Jan, 2019 – Present: Student**
-* Create Python-based scripts to automate the cleanup, re-structuring, and rendering of large, heterogeneous datasets, interact with RESTful APIs using Python Requests and
-JSON parsing techniques, build custom interactive data visualizations using D3.js
-and other JavaScript libraries
+* Create Python-based scripts to automate the cleanup, re-structuring, and rendering of large, heterogeneous datasets, interact with RESTful APIs using Python Requests and JSON parsing techniques, build custom interactive data visualizations using D3.js and other JavaScript libraries
 * Write SQL commands to perform create, read, update, and delete commands, scrape information from web pages in order to collect data from a wide-variety of online sources, create basic interactive websites and applications with HTML, CSS, JavaScript/D3, AJAX, and Leaflet
 <br>
 StemGenex, Inc. – San Diego, CA <br>
