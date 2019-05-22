@@ -6,6 +6,7 @@ San Diego, CA <br>
 619-928-5889 <br>
 Email: (hollyjbergen@gmail.com)<br>
 [LinkedIn](https://www.linkedin.com/in/holly-bergen-92241a60)
+<br>
 
 ## Summary of Qualifications
 
@@ -30,6 +31,7 @@ Email: (hollyjbergen@gmail.com)<br>
 •	Motivated and dedicated
 •	Critical thinker and problem-solver
 •	Great attention to detail and research skills
+<br>
 
 ## Professional Experience
 
@@ -52,7 +54,7 @@ StemGenex, Inc. – San Diego, CA <br>
 * Administrative responsibilities such as triaging of phone calls, communicating with patients, general office duties such as filing, copying, faxing, create spreadsheets/report, offering assistance to members of other teams when necessary
 <br>
 
-Pine House Café & Tavern - Mount Laguna, CA <br>                                 
+Pine House Café & Tavern - Mount Laguna, CA                                 
 **July, 2016 – June, 2017: Executive Assistant**
 * Reliable right-hand to restaurant owner in various logistical tasks, including but not limited to; market research, event coordinating and planning, marketing tasks, collecting donations, and promoting for and running charity events
 <br>
@@ -70,4 +72,4 @@ Pearson Education, Inc. – San Diego, CA <br>
 assessment tests, assisting in children’s learning and training of “brain training” application
 * Recording and maintaining accurate data, troubleshooting technology, and 
 coordinating with research team, school program leaders, and technology specialists throughout data collection process
-
+<br>
