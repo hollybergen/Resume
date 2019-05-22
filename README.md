@@ -1,5 +1,6 @@
+#
 <p align="center">
-  <b># Holly Bergen </b><br>
+  <b>Holly Bergen </b><br>
 </p>
 
 ## Curriculum Vitae
