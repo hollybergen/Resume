@@ -1,4 +1,6 @@
-#                                                               Holly Bergen
+<p align="center">
+  <b># Holly Bergen </b><br>
+</p>
 
 ## Curriculum Vitae
 
