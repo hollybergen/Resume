@@ -1,5 +1,4 @@
-#
-<p align="center">
+# <p align="center">
   <b>Holly Bergen </b><br>
 </p>
 
