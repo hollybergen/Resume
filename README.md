@@ -4,7 +4,7 @@
 
 San Diego, CA <br>
 619-928-5889 <br>
-Email: (hollyjbergen@gmail.com)<br>
+Email: hollyjbergen@gmail.com<br>
 [LinkedIn](https://www.linkedin.com/in/holly-bergen-92241a60)
 <br>
 
