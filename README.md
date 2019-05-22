@@ -1,5 +1,6 @@
+# Holly Bergen
 ## Curriculum Vitae
-___
+
 
 San Diego, CA <br>
 619-928-5889 <br>
