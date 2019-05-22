@@ -32,6 +32,7 @@ Email: (hollyjbergen@gmail.com)<br>
 •	Critical thinker and problem-solver
 •	Great attention to detail and research skills
 <br>
+<br>
 
 ## Professional Experience
 
