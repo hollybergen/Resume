@@ -2,9 +2,9 @@
 
 ## Curriculum Vitae
 
-San Diego, CA
-619-928-5889
-[Email] (hollyjbergen@gmail.com)
+San Diego, CA <br>
+619-928-5889 <br>
+Email: (hollyjbergen@gmail.com)<br>
 [LinkedIn](https://www.linkedin.com/in/holly-bergen-92241a60)
 
 ### Summary of Qualifications
