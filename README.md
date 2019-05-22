@@ -1,8 +1,5 @@
-# <p align="center">
-  <b>Holly Bergen </b><br>
-</p>
-
 ## Curriculum Vitae
+___
 
 San Diego, CA <br>
 619-928-5889 <br>
@@ -11,7 +8,7 @@ Email: (hollyjbergen@gmail.com)<br>
 
 ### Summary of Qualifications
 
-(Technical)
+(Technical) <br>
 •	Trained with CPT and ICD-9 codes, IRB,   HIPAA protocol and health insurance policies
 •	 Programming ability in Python, HTML, JavaScript, MATLAB, and Excel VBA
 •	Experience with building and calling APIs using Flask and databases using SQL, noSQL
